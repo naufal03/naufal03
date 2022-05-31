@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, i am Naufal Arkan Zhafran
 
 <!--
 **naufal03/naufal03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
